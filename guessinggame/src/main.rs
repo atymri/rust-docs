@@ -3,7 +3,18 @@ use std::io::{self, Write};
 
 // guessing game! i generate a number, you have to guess.
 fn main() {
-    guessing_digit();
+    print!("1.guess digit by digit\n2.guess the whole number\n->");
+    io::stdout()
+        .flush().expect("failed to flush");
+        
+        let number:i8 = get_input().trim().parse().expect("invalid number");
+
+
+    match number {
+        1 => guessing_digit(),
+        2 => guessing_number(),
+        _ => println!("invalid input")
+    }
 }
 
 fn get_input() -> String {
