@@ -1,0 +1,12 @@
+/home/atymri/RustProjects/rust-docs/wordle/target/debug/deps/colored-9555c939907b7d96.d: /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/lib.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/color.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/control.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/error.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/style.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/customcolors.rs
+
+/home/atymri/RustProjects/rust-docs/wordle/target/debug/deps/libcolored-9555c939907b7d96.rlib: /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/lib.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/color.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/control.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/error.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/style.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/customcolors.rs
+
+/home/atymri/RustProjects/rust-docs/wordle/target/debug/deps/libcolored-9555c939907b7d96.rmeta: /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/lib.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/color.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/control.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/error.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/style.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/customcolors.rs
+
+/home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/lib.rs:
+/home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/color.rs:
+/home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/control.rs:
+/home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/error.rs:
+/home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/style.rs:
+/home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/customcolors.rs:

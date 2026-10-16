@@ -1,0 +1,12 @@
+/home/atymri/RustProjects/rust-docs/wordle/target/debug/deps/chacha20-43b992860636a9fc.d: /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/lib.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/variants.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/rng.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/../README.md /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends/soft.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends/avx2.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends/sse2.rs
+
+/home/atymri/RustProjects/rust-docs/wordle/target/debug/deps/libchacha20-43b992860636a9fc.rmeta: /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/lib.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/variants.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/rng.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/../README.md /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends/soft.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends/avx2.rs /home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends/sse2.rs
+
+/home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/lib.rs:
+/home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/variants.rs:
+/home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends.rs:
+/home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/rng.rs:
+/home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/../README.md:
+/home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends/soft.rs:
+/home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends/avx2.rs:
+/home/atymri/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends/sse2.rs:
