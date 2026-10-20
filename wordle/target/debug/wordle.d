@@ -1,1 +1,1 @@
-/home/atymri/RustProjects/rust-docs/wordle/target/debug/wordle: /home/atymri/RustProjects/rust-docs/wordle/src/main.rs
+C:\Users\atymri\Projects\Rust\rust-docs\wordle\target\debug\wordle.exe: C:\Users\atymri\Projects\Rust\rust-docs\wordle\src\main.rs
